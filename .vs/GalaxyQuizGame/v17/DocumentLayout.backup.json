@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|c:\\users\\lenovo\\source\\repos\\galaxyquizgame\\galaxyquizgame\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9E0C14C-8C80-41F1-A5FA-C588543621BE}|GalaxyQuizGame\\GalaxyQuizGame.vbproj|solutionrelative:galaxyquizgame\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\QuizForm.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\QuizForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\QuizForm.vb [Design]",
+              "RelativeToolTip": "GalaxyQuizGame\\QuizForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:05:25.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\Login.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\Login.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\Login.vb [Design]",
+              "RelativeToolTip": "GalaxyQuizGame\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T10:59:13.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\MenuForm.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\MenuForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\MenuForm.vb [Design]",
+              "RelativeToolTip": "GalaxyQuizGame\\MenuForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:05:17.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuForm.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\MenuForm.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\MenuForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\MenuForm.vb",
+              "RelativeToolTip": "GalaxyQuizGame\\MenuForm.vb",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:21:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizForm.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\QuizForm.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\QuizForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\QuizForm.vb",
+              "RelativeToolTip": "GalaxyQuizGame\\QuizForm.vb",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwHcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:21:06.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\Login.vb",
+              "RelativeDocumentMoniker": "GalaxyQuizGame\\Login.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GalaxyQuizGame\\GalaxyQuizGame\\Login.vb",
+              "RelativeToolTip": "GalaxyQuizGame\\Login.vb",
+              "ViewState": "AgIAADMAAAAAAAAAAAA7wCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T11:20:46.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
